@@ -1,5 +1,7 @@
-Build and run the program:
-zig build run
+# Hello, World!
 
-run the tests:
-zig test ./src/main.zig
+Build and run the program:</br>
+`zig build run`
+
+Run the tests:</br>
+`zig test ./src/main.zig`
